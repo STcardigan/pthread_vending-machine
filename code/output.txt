@@ -1,0 +1,58 @@
+Sat Apr 21 22:27:37 2018 consumer 1 going to wait for coke for 2 seconds.
+Sat Apr 21 22:27:37 2018 consumer 3 going to wait for water for 2 seconds.
+Sat Apr 21 22:27:37 2018 consumer 7 going to wait for tea for 2 seconds.
+Sat Apr 21 22:27:37 2018 supplier 2 supplied tea one unit. Stock after = 1
+Sat Apr 21 22:27:37 2018 supplier 1 supplied coke one unit. Stock after = 1
+Sat Apr 21 22:27:38 2018 supplier 5 supplied coffee one unit. Stock after = 1
+Sat Apr 21 22:27:38 2018 consumer 2 consumed tea one unit. Stock after = 0
+Sat Apr 21 22:27:38 2018 consumer 5 consumed coffee one unit. Stock after = 0
+Sat Apr 21 22:27:38 2018 consumer 6 consumed coke one unit. Stock after = 0
+Sat Apr 21 22:27:38 2018 supplier 2 supplied tea one unit. Stock after = 1
+Sat Apr 21 22:27:38 2018 supplier 1 supplied coke one unit. Stock after = 1
+Sat Apr 21 22:27:39 2018 supplier 3 supplied water one unit. Stock after = 1
+Sat Apr 21 22:27:39 2018 consumer 8 consumed water one unit. Stock after = 0
+Sat Apr 21 22:27:39 2018 consumer 3 going to wait for water for 4 seconds.
+Sat Apr 21 22:27:39 2018 consumer 7 consumed tea one unit. Stock after = 0
+Sat Apr 21 22:27:39 2018 consumer 1 consumed coke one unit. Stock after = 0
+Sat Apr 21 22:27:39 2018 supplier 2 supplied tea one unit. Stock after = 1
+Sat Apr 21 22:27:39 2018 supplier 1 supplied coke one unit. Stock after = 1
+Sat Apr 21 22:27:40 2018 consumer 2 consumed tea one unit. Stock after = 0
+Sat Apr 21 22:27:40 2018 consumer 5 going to wait for coffee for 4 seconds.
+Sat Apr 21 22:27:40 2018 consumer 7 going to wait for tea for 2 seconds.
+Sat Apr 21 22:27:40 2018 consumer 6 consumed coke one unit. Stock after = 0
+Sat Apr 21 22:27:40 2018 supplier 5 supplied coffee one unit. Stock after = 1
+Sat Apr 21 22:27:40 2018 consumer 1 going to wait for coke for 2 seconds.
+Sat Apr 21 22:27:40 2018 supplier 2 supplied tea one unit. Stock after = 1
+Sat Apr 21 22:27:40 2018 supplier 1 supplied coke one unit. Stock after = 1
+Sat Apr 21 22:27:41 2018 supplier 1 supplied coke one unit. Stock after = 2
+Sat Apr 21 22:27:42 2018 supplier 4 supplied milk one unit. Stock after = 1
+Sat Apr 21 22:27:42 2018 supplier 3 supplied water one unit. Stock after = 1
+Sat Apr 21 22:27:42 2018 consumer 8 consumed water one unit. Stock after = 0
+Sat Apr 21 22:27:42 2018 consumer 7 consumed tea one unit. Stock after = 0
+Sat Apr 21 22:27:42 2018 consumer 6 consumed coke one unit. Stock after = 1
+Sat Apr 21 22:27:42 2018 supplier 5 supplied coffee one unit. Stock after = 2
+Sat Apr 21 22:27:42 2018 consumer 1 consumed coke one unit. Stock after = 0
+Sat Apr 21 22:27:42 2018 supplier 1 supplied coke one unit. Stock after = 1
+Sat Apr 21 22:27:43 2018 consumer 3 going to wait for water for 8 seconds.
+Sat Apr 21 22:27:43 2018 consumer 1 consumed coke one unit. Stock after = 0
+Sat Apr 21 22:27:43 2018 supplier 1 supplied coke one unit. Stock after = 1
+Sat Apr 21 22:27:44 2018 consumer 5 consumed coffee one unit. Stock after = 1
+Sat Apr 21 22:27:44 2018 consumer 1 consumed coke one unit. Stock after = 0
+Sat Apr 21 22:27:44 2018 supplier 1 supplied coke one unit. Stock after = 1
+Sat Apr 21 22:27:45 2018 supplier 3 supplied water one unit. Stock after = 1
+Sat Apr 21 22:27:45 2018 supplier 1 supplied coke one unit. Stock after = 2
+Sat Apr 21 22:27:46 2018 supplier 1 supplied coke one unit. Stock after = 3
+Sat Apr 21 22:27:47 2018 supplier 1 supplied coke one unit. Stock after = 4
+Sat Apr 21 22:27:48 2018 supplier 4 supplied milk one unit. Stock after = 2
+Sat Apr 21 22:27:48 2018 supplier 3 supplied water one unit. Stock after = 2
+Sat Apr 21 22:27:48 2018 supplier 1 supplied coke one unit. Stock after = 5
+Sat Apr 21 22:27:51 2018 consumer 3 consumed water one unit. Stock after = 1
+Sat Apr 21 22:27:52 2018 consumer 3 consumed water one unit. Stock after = 0
+Sat Apr 21 22:27:56 2018 consumer 4 consumed milk one unit. Stock after = 1
+Sat Apr 21 22:28:16 2018 consumer 4 consumed milk one unit. Stock after = 0
+All threads completed. Final stock = 6
+coffee remain : 1
+milk remain : 0
+water remain : 0
+tea remain : 0
+coke remain : 5
